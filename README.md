@@ -1,4 +1,2 @@
 # OS
-OS
-
-in P1 folder and named "10527142project.doc"
+這是大學二年級作業系統的三個proj，接有說明文件和
